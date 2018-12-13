@@ -8,8 +8,22 @@ header {
   background: url("../images/the-flatiron-building.png");
 }
 
+main {
+  text-align: center;
+}
+
 h1 {
   font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
   font-weight: bold;
 }
 
@@ -17,4 +31,15 @@ nav a {
   font-size: 18px;
   color: white;
   font-weight: bold;
+}
+
+main p {
+  font-size: 14px;
+}
+
+.separator {
+  background: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
