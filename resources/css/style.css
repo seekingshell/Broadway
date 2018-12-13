@@ -12,6 +12,12 @@ main {
   text-align: center;
 }
 
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -35,6 +41,11 @@ nav a {
 
 main p {
   font-size: 14px;
+}
+
+footer a {
+  color: white;
+  font-weight: bold;
 }
 
 .separator {
